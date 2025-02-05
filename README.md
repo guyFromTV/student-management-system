@@ -14,3 +14,9 @@ Features:
 1. Clone the repository
 2. Compile the code using a C compiler (e.g., `gcc main.c dsaproject.c -o student_manager`)
 3. Run the program (`./student_manager`)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
